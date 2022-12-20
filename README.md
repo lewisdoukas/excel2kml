@@ -51,7 +51,7 @@ Creates a directory <datetime>_KML where you can find the exported .kml file
 # Arguments: 
 `<kml type> <import_filename.(csv or xlsx)> <output_kml_filename.kml>`
 
-Where <kml type> must be point, line or polygon.
+Where `<kml type>` must be point, line or polygon.
 
 # Execution (example): 
 `python excel2kml.py line inputlines.xlsx outputlines.kml`
